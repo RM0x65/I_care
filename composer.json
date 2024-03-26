@@ -1,0 +1,17 @@
+{
+    "name": "....",
+    "description": "....",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "....",
+            "email": "......."
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "slim/slim": "4.*",
+        "slim/psr7": "dev-master"
+    }
+    }
